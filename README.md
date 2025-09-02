@@ -12,7 +12,7 @@
 - 👯 I'm looking to collaborate on *Machine Learning, AI, and Web Development projects*  
 - 💬 Ask me about *Python, R, SQL, Data Science, AI, and Web Development*  
 - 📫 How to reach me: *dilanmalavi00@gmail.com*  
-- ⚡ Fun fact: *I love building both websites and AI projects(models) at the same time 🚀*  
+- ⚡ Fun fact: *Pushing commits, pulling patterns, predicting the future 🚀.*  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
